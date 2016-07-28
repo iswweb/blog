@@ -1,6 +1,6 @@
 permalink: /:title
 
-title: Iswweb.com
+title: CloudFly's Blog
 url: http://iswweb.github.io
 feed: /atom.xml
 author_info: <a href="http://iswweb.github.io/">Iswweb.com</a>
