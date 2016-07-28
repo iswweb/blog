@@ -1,7 +1,8 @@
 ---
 layout:     post
 title:      BrowserTools
-category: blog
+category: tech
+author: www.iswweb.com
 description: BrowserTools主要是一系列的基于浏览器收藏夹栏的快捷小工具，使用非常简单，不需要安装。
 ---
 
