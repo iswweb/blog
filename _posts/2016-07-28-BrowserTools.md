@@ -45,12 +45,12 @@ javascript:(function(){var u=document.URL;var w=window.open('http://xys.iswweb.c
 
 * 3.切换百度搜索为GOOGLE搜索，在google界面切换回百度搜索。
 
-<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://guge.hntvchina.com/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`@百度谷歌切换`</a>
-<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://guge.hntvchina.com/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`@S`</a>
-<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://guge.hntvchina.com/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`S`</a>
+<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://letsgg.tk/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`@百度谷歌切换`</a>
+<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://letsgg.tk/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`@S`</a>
+<a href="javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://letsgg.tk/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();">`S`</a>
 
 ```javascript
-javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='http://guge.hntvchina.com/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();
+javascript:(function(){var u=document.URL;var ua=u.split('=');if (ua[0].indexOf('baidu')>0){var ub=u.split('wd=');var uc=ub[1].split('&');var nu='https://letsgg.tk/search?hl=zh-CN&q='+uc[0];}else{var ub=ua[2].split('&');nu='https://www.baidu.com/s?wd='+ub[0];}location=nu;})();
 ```
 
 * 4.生成一个随机的密码。
